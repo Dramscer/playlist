@@ -23,12 +23,6 @@ console.log("Hola Git")
 - The less I know the better - Tame Impala
 - Old Soul - Saint motel
 
-## ROCK
-
-- Come Alive - San-Z
-- Kingslayer - Bring Me the Horizon
-- Afterlife - Evanescence 
-
 ## NU METAL
 
 - In the end - Linkin park 
